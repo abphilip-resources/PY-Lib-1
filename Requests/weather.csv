@@ -1,0 +1,6 @@
+City,Latitude,Longitude,Weather,Temp,Pressure,Humidity,Wind speed,HTTP Status Code
+Bengaluru,12.9762,77.6033,broken clouds,295.95,1012,88,7.2,200
+Hyderabad,17.3753,78.4744,light intensity drizzle,295.38,1007,94,2.06,200
+Pune,18.5196,73.8553,moderate rain,296.32,1007,91,1.18,200
+Chennai,13.0878,80.2785,few clouds,303.14,1006,66,4.12,200
+Delhi,28.6667,77.2167,mist,302.2,1009,94,3.09,200
