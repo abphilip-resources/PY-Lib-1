@@ -1,3 +1,3 @@
 # Python: Firebase
 
-### [`Official Docs`](https://firebase.google.com/docs/admin/setup)
+### [`Official Documentation`](https://firebase.google.com/docs/admin/setup)
